@@ -37,7 +37,7 @@ function greeting(parameterVariable) {
     console.log(parameterVariable);
 }
 
-
+ 
 function main() {
     const parameterVariable = readLine();
     
